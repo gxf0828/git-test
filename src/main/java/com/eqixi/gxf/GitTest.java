@@ -1,5 +1,7 @@
 package com.eqixi.gxf;
 
+import java.io.OutputStream;
+
 /**
  * IntelliJ IDEA com.eqixi.gxf
  * Administrator
@@ -13,5 +15,6 @@ public class GitTest {
      System.out.println("hello git hot-fix");
      System.out.print("github");
      System.out.println("github.com");
+     System.out.println("github.com push success");
  }
 }
