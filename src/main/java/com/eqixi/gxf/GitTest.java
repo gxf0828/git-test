@@ -1,7 +1,5 @@
 package com.eqixi.gxf;
 
-import java.io.OutputStream;
-
 /**
  * IntelliJ IDEA com.eqixi.gxf
  * Administrator
