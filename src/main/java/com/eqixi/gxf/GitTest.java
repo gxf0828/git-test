@@ -16,6 +16,6 @@ public class GitTest {
      System.out.println("github.com push success");
      System.out.println("github.com push success2");
      System.out.println("github.com push pullxxx");
-     
+      System.out.println("github.com push pullxxxSSS");
  }
 }
